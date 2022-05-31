@@ -1,0 +1,2 @@
+# MyJanken
+iOSじゃんけんアプリ
